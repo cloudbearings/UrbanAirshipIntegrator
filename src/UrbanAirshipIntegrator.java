@@ -27,7 +27,7 @@ public class UrbanAirshipIntegrator {
 	
 	/**
 	 * This is the preferred method used to send a push notification to a newsstand app. It will also log each push notification to a text file called 
-	 * "Elsevier_JAT_Push_Log.txt", which will be stored where ever the code is executed. 
+	 * "Push_Log.txt", which will be stored where ever the code is executed. 
 	 * 
 	 *
 	 * @param  appName  Internal app name. Only used in log file.
