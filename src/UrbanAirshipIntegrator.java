@@ -3,7 +3,6 @@
  * Sends a push notification
  * Logs each push
  * 
- * (c) Elsevier Inc.
  * @author Matt Morgis
  * 
  */
