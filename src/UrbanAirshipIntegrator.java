@@ -7,8 +7,6 @@
  * 
  */
 
-package com.elsevier.ptg.urbanairship;
-
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
