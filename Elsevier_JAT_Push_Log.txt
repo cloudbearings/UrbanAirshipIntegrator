@@ -1,0 +1,25 @@
+
+Push Notification for Sleep Med. sent:
+2012/Dec/14 12:51:16
+Alert Text Sent: There is a new issue available.
+Push sent successfully
+Push Notification for Sleep Med. sent:
+2012/Dec/14 14:15:42
+Alert Text Sent: Dummy Text
+Push sent successfully
+Push Notification for Sleep Med. sent:
+2012/Dec/14 14:17:00
+Alert Text Sent: Dummy Text
+Push sent successfully
+Push Notification for Sleep Med. sent:
+2012/Dec/18 10:22:23
+Alert Text Sent: Dummy Text
+Push sent successfully
+Push Notification for Sleep Med. sent:
+2012/Dec/18 10:50:56
+Alert Text Sent: Dummy Text
+Push sent successfully
+Push Notification for Sleep Med. sent:
+2012/Dec/18 11:29:24
+Alert Text Sent: Dummy Text
+Push sent successfully
