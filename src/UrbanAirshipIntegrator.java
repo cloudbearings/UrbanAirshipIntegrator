@@ -99,7 +99,7 @@ public class UrbanAirshipIntegrator {
 	
 	//logs the sent push to a text file
 	private void logPush(String appName, String alertText, int responseCode) {
-		File log = new File("Elsevier_JAT_Push_Log.txt");
+		File log = new File("JAT_Push_Log.txt");
 		try {
 			if (!log.exists()) {
 				//System.out.println("New file created");
